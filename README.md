@@ -10,10 +10,13 @@ This repository contains a project where I create a Walkthrough Page using Swift
 
 ## Features
 
--**Customizable Layouts: Easily modify the appearance to match your app's design.
--**Smooth Transitions: Enjoy seamless animations and transitions between steps.
--**Interactive Elements: Incorporate buttons, images, and text to enhance user interaction.
--**State Management: Efficiently manage the state and flow of the walkthrough process.
+- **Customizable Layouts**: Easily modify the appearance to match your app's design.
+
+- **Smooth Transitions**: Enjoy seamless animations and transitions between steps.
+
+- **Interactive Elements**: Incorporate buttons, images, and text to enhance user interaction.
+
+- **State Management**: Efficiently manage the state and flow of the walkthrough process.
 
 #
 ![](https://github.com/aziza92/WalkthroughSwiftUI/assets/64699474/0c7158dd-beb1-42b5-97c1-105cfdc40d0a.gif)
